@@ -10,5 +10,6 @@ This is deilivery rider app  here deilivery rider will see all coming request ac
 
 ![image](https://github.com/bhandarimanoj612/YetaiEats-DiliveryRIder-FrontendReact-native/assets/105379940/a4e3f9dd-46e7-4e34-90e9-d7a4d63b56d9)
 
+![image](https://github.com/bhandarimanoj612/YetaiEats-DiliveryRIder-FrontendReact-native/assets/105379940/b2140348-6c5a-49e1-853c-0cd95778e101)
 
-![Uploading image.png…]()
+
